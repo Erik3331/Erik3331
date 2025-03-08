@@ -4,7 +4,7 @@
 
 
 
-### 🛠️ Technologies & Tools
+### 🛠️ Languages, Technologies & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,arduino,vscode,git,github" />
