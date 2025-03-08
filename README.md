@@ -1,13 +1,13 @@
 <h1 >Erik Ramon 🚀</h1>
 
-👨🏻‍💻 **Information Technology student** and **full-stack developer**, fissured to expand my knowledge in the area. Seeking to learn and apply new technologies, focusing on developing software, hardware and innovative solutions that can transform ideas into functional and creative realities.
+👨🏻‍💻 **Information Technology student** and **full-stack developer**, fissured to expand my knowledge in the area.
 
 
 
 ### 🛠️ Technologies & Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,arduino,java,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,arduino,vscode,git,github" />
 </div>
 
 ---
