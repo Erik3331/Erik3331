@@ -6,8 +6,8 @@
 
 ### 🛠️ Technologies & Tools
 
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,arduino,java,c,git,github" />
+<div>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,arduino,java,git,github" />
 </div>
 
 ---
