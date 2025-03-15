@@ -1,3 +1,9 @@
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono+nerd&weight=600&size=22&pause=1000&color=988BC7&center=false&vCenter=true&random=false&width=525&lines=console.log('Welcome+to+my+profile!')" alt="Typing SVG">
+  </a>
+</div>
+
 <h1>Erik Ramon 🚀</h1>
 
 👨🏻‍💻 **Information Technology student** and **front-end developer**, fissured to expand my knowledge in the area.
