@@ -6,14 +6,18 @@
 
 ### 🛠️ Languages, Technologies & Tools
 
-<div>
+<div style="display: flex">
   <img src="https://skillicons.dev/icons?i=react,javascript,html,css,java,arduino,vscode,git,github" />
 </div>
 
 ---
 
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erik3331&theme=omni&show_icons=true&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erik3331&theme=omni&show_icons=true&hide_border=false&layout=compact" />
+</div>
 
-![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=Erik3331&show_icons=true&theme=radical)
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Erik3331/Erik3331/output/github-contribution-grid-snake-dark.svg">
