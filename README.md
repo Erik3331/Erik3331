@@ -6,7 +6,7 @@
 
 <h1>Erik Ramon 🚀</h1>
 
-👨🏻‍💻 **Information Technology student** and **full-stack developer**, fissured to expand my knowledge in the area.
+👨🏻‍💻 **Information Technology student** and **front-end developer**, fissured to expand my knowledge in the area.
 
 
 
