@@ -13,7 +13,7 @@
 ### 🛠️ Languages, Technologies & Tools
 
 <div style="display: flex">
-  <img src="https://skillicons.dev/icons?i=react,tailwindcss,javascript,html,css,php,mysql,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,tailwindcss,vite,javascript,html,css,php,mysql,arduino" />
 </div>
 
 ---
